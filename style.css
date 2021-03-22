@@ -1,0 +1,95 @@
+body{
+	margin: 0;
+	background: url(arkaplan.jpeg);
+	background-size: cover;
+
+}
+.box{
+	width:40%;
+	padding: 10px;
+	text-align: center;
+	margin: auto;
+	margin-top: 7%;
+	color: black;
+
+}
+.box img{
+	border-radius: 50%;
+	width:200px;
+	height:200px;
+	
+
+}
+
+.box li{
+	display: inline-block;
+	margin: 3px;
+	list-style: none;
+
+}
+.box li a{
+	color: white;
+	font-size:60px;
+
+}
+.box h1{
+	font-size:40px;
+	letter-spacing: 4px;
+	font-weight: 100;
+}
+
+h1{
+	text-align: center;
+}
+h1,h3,p, a{
+	font-family: italic, cursive;
+	padding: 20px;
+}
+nav{
+	text-align: right;
+	background-color: #f6e3d8;
+}
+.menu{
+	padding: 20px;
+}
+.menu a{
+	color: black; 
+	text-decoration: none;
+	font-size:20px;
+
+
+}
+.menu .linkler{
+	margin-right: 30px;
+	margin-left: 30px;
+	
+	
+}
+.menu #marka{
+	font-style: italic;
+	float:left;
+	
+}
+
+/*Hakkımda ve hizmetler sayfası*/
+#hakkimda{
+	text-align: left;
+	background-color: #c0a392;
+	margin: 100px;
+	padding: 5px;
+	
+	border-radius: 5%;
+
+}
+
+.container{
+	
+	
+	box-shadow: 11px 13px 8px 0px rgba(193,150,150,0.72);
+-webkit-box-shadow: 11px 13px 8px 0px rgba(193,150,150,0.72);
+-moz-box-shadow: 11px 13px 8px 0px rgba(193,150,150,0.72);
+    border-radius: 30%;
+    
+
+}
+
